@@ -1,2 +1,3 @@
-# VanProject
-Van spk
+
+#Cài đặt:
+mvn spring-boot:run
